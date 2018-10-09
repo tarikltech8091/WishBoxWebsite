@@ -1,0 +1,88 @@
+/*
+# Custom CSS
+*/
+
+.logo {
+	
+	margin-bottom: 0;
+}
+
+.logo img {
+	margin-top: 5%;
+}
+.contactform input {
+	width: 93%;
+}
+
+.service2 a.button{
+	border-color: #696969;
+	background-color: #7cc64b;
+}
+
+.service2 a.button:hover {
+	border-color: #ffffff;
+	
+}
+
+/*Heade Menu */
+.navbar-wrapper {
+	/*background: none repeat scroll 0 0 rgba(42, 50, 58, 0.9);*/
+	background: #c3404e;
+	color: #fff;
+}
+
+#main-menu ul li a {
+	color: #ffffff;
+}
+
+.follower a {
+	border: 1px solid #ffffff;
+	color: #ffffff;
+	
+}
+
+.follower span {
+	color: #ffffff;
+}
+
+
+.sbHolder {
+	background-color: #2A323A !important;
+	border: 1px solid #ffffff !important;
+}
+
+.sbSelector:link, .sbSelector:visited {
+	color: #ffffff !important;
+
+}
+
+.sbOptions {
+	background: none repeat scroll 0 0 #2A323A !important;
+}
+
+/*backgroud change*/
+.bg-dark{
+	background: none repeat scroll 0 0 rgba(42, 50, 58, 0.9);
+	/*background: #c3404e;*/
+	color: #ffffff ;
+}
+
+.bg-dark h1,.bg-dark h2,.bg-dark h3,.bg-dark h4,.bg-dark h5,.bg-dark h6,.bg-light-dark h1,.bg-light-dark h2,.bg-light-dark h3,.bg-light-dark h4,.bg-light-dark h5,.bg-light-dark h6,.bg-dark .title{
+	color: #ffffff ;
+}
+
+.bg-dark .title h4{
+	color: inherit !important;
+}
+
+.bg-light-dark {
+	background: #4A525A;
+	color: #ffffff;
+}
+
+
+
+/*#myImageFlow {
+	background: none repeat scroll 0 0 rgba(42, 50, 58, 0.9) !important;
+	color: #ffffff !important;
+}*/

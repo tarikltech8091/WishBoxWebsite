@@ -1,0 +1,35 @@
+/*
+#################
+## Custom CSS
+#################
+*/
+
+/*login box*/
+/*.box-login{
+	display: block;
+}*/
+
+ body.box-login {
+  display: block;
+}
+
+.alert {
+    padding: 20px;
+    background-color: #32CD32;
+    color: black;
+}
+
+.closebtn {
+    margin-left: 15px;
+    color: white;
+    font-weight: bold;
+    float: right;
+    font-size: 22px;
+    line-height: 20px;
+    cursor: pointer;
+    transition: 0.3s;
+}
+
+.closebtn:hover {
+    color: black;
+}
